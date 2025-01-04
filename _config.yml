@@ -1,15 +1,15 @@
 title: Estudos do Quarto
 author: Rebecca & Autores
-url: https://estudos.princessmortix.link # root address of the site
+url: https://estudos.lostdusty.dev.br # root address of the site
 description: > # description of the site (multiple lines allowed)
   Estudos do quarto é um projeto para ajudar os estudantes com dificuldade nas matérias que são ensinadas na escola. Feito por alunas para todos os alunos.
 
 permalink: /:slug
 
-favicon: "estudos.princessmortix.link/logo.png" # relative path to site's favicon
+favicon: "estudos.lostdusty.dev.br/logo.png" # relative path to site's favicon
 
 twitter:
-    username: princessmortix # update or delete this
+    username: lostdusty # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
