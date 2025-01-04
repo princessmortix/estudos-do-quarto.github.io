@@ -120,14 +120,11 @@ footer_entries:
   - title: <i class="fa-solid fa-brush"></i> tema
     url: https://www.abhinav.co
 
-  - title: <i class="fa-solid fa-graduation-cap"></i> boletim ctpm
-    url: https://www.sistemaspm.mg.gov.br/smb3_boletim/login.xhtml
-
-  - title: <i class="fa-solid fa-globe"></i> positivo on
-    url: https://positivoon.com.br/
-
   - title: <i class="fa-solid fa-rss"></i> feed
     url: feed.xml
+
+  - title: <i class="fa-solid fa-circle-user"></i> autora
+    url: https://lostdusty.dev.br
 
 misc_entries:
   #- title: and you can add data in _data/home.yml
